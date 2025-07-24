@@ -71,7 +71,7 @@
     "@angular/router": "18.0.1",
     "@angular/service-worker": "18.0.1",
     "@nx/angular": "19.1.1",
-    "@nx/node": "19.1.1",
+    "@nx/node": "21.3.0",
     "@playwright/test": "1.35.1",
     "@schematics/angular": "18.0.2",
     "@stackblitz/sdk": "1.8.0",
