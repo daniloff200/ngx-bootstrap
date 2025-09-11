@@ -67,7 +67,7 @@
     "@angular/forms": "18.0.1",
     "@angular/platform-browser": "18.0.1",
     "@angular/platform-browser-dynamic": "18.0.1",
-    "@angular/platform-server": "18.0.1",
+    "@angular/platform-server": "18.2.14",
     "@angular/router": "18.0.1",
     "@angular/service-worker": "18.0.1",
     "@nx/angular": "19.1.1",
